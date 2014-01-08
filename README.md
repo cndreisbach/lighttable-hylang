@@ -1,9 +1,9 @@
-##Python for Light Table
+## Hy for Light Table
 
-The official Python language plugin for Light Table.
+The official Hy language plugin for Light Table.
 
-###License
+### License
 
-Copyright (C) 2013 Kodowa Inc.
+Copyright (C) 2014 Clinton Dreisbach.
 
 Distributed under the GPLv3, see license.md for the full text.

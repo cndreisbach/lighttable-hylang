@@ -1,10 +1,10 @@
 {
-  "name": "Python",
-  "author": "Kodowa",
+  "name": "Hy",
+  "author": "Clinton Dreisbach",
   "version": "0.0.1",
-  "source": "https://github.com/LightTable/Python",
-  "desc": "Python language plugin for Light Table",
+  "source": "https://github.com/cndreisbach/lighttable-hylang",
+  "desc": "Hy language plugin for Light Table",
   "dependencies": {
   },
-  "behaviors": "python.behaviors"
+  "behaviors": "hy.behaviors"
 }
